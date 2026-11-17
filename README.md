@@ -36,12 +36,12 @@
 
 | Halaman Beranda & Statistik | Filter Mood & Pencarian |
 | :---: | :---: |
-| ![Beranda](./screenshots/beranda.png) | ![Filter dan Search](./screenshots/search.png) |
+| ![Beranda](beranda.png) | ![Filter dan Search](detail-edit.png) |
 | *Tampilan utama dengan jam real-time, statistik, dan daftar catatan.* | *Penyaringan catatan berdasarkan mood dan kata kunci pencarian.* |
 
 | Tambah Catatan & Validasi | Detail & Edit Catatan |
 | :---: | :---: |
-| ![Tambah Diary](./screenshots/tambah-diary.png) | ![Detail dan Edit](./screenshots/detail-edit.png) |
+| ![Tambah Diary](tambah-diary.png) | ![Detail dan Edit](update.png) |
 | *Form pembuatan diary baru dengan pemilih mood dan validasi input.* | *Pembaruan judul, isi cerita, dan mood langsung ke Redux Store.* |
 
 ---
