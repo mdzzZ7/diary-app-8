@@ -36,7 +36,7 @@
 
 | Halaman Beranda & Statistik | Filter Mood & Pencarian |
 | :---: | :---: |
-| ![Beranda](beranda.png) | ![Filter dan Search](detail-edit.png) |
+| ![Beranda](beranda.png) | ![Filter dan Search](search.png) |
 | *Tampilan utama dengan jam real-time, statistik, dan daftar catatan.* | *Penyaringan catatan berdasarkan mood dan kata kunci pencarian.* |
 
 | Tambah Catatan & Validasi | Detail & Edit Catatan |
